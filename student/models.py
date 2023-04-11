@@ -15,11 +15,11 @@ class Student(models.Model):
 
 
 # {
-# "student_name" : "blah",
-# "age" : 12,
-# "gender" : "Male",
-# "email" : "blah@gmail.com",
-# "phone" : 12345678,
-# "user_name" : "blah",
+# "student_name" : "athira",
+# "age" : 24,
+# "gender" : "Female",
+# "email" : "athiramj@gmail.com",
+# "phone" : 9823456785,
+# "username" : "blah",
 # "password" : "123456"
 # }
